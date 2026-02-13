@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyTorch / Models
+*.pt
+*.pth
+*.ckpt
+
+# Build files
+dist/
+build/
+
+# Windows
+Thumbs.db
